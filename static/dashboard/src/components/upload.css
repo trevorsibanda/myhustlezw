@@ -1,0 +1,18 @@
+
+@media only screen and (max-width: 600px) {
+.uppy-Dashboard--modal .uppy-Dashboard-inner {
+    z-index: 999999;
+    height: 80vh;
+    overflow-y: scroll;
+}
+
+.uppy-Dashboard--modal .uppy-Dashboard-inner{
+    top: 5vh;
+}
+
+.avatar-upload-15vh{
+    width: 15vh;
+    height: 15vh; 
+}
+
+}

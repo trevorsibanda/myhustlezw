@@ -1,0 +1,19 @@
+import React, {Component} from "react"
+
+class VideoPlayer extends Component{
+    render(){
+        return(
+            <video id="my-video" class="video-js vjs-default-skin vjs-16-9" controls preload="auto"
+                data-setup="{}">
+                <source src={this.props.video.url} type={this.props.video.mime} />
+                <p class="vjs-no-js">
+                    To view this video please enable JavaScript, and consider upgrading to a
+                    web browser that
+                                                    <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                </p>
+            </video>
+        )
+    }
+}
+
+export default VideoPlayer

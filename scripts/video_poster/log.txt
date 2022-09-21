@@ -1,0 +1,342 @@
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6dee37d196df3294ad0b.webm
+Output: /tmp/602d03b09d3dda5573f1e412_603f6dee37d196df3294ad0b.webm.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6e7937d196df3294ad0c.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602d03b09d3dda5573f1e412_603f6f0c37d196df3294ad0d.mp4
+Output: /tmp/602d03b09d3dda5573f1e412_603f6f0c37d196df3294ad0d.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_603fbb7437d196df3294ad15.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_603fbb7437d196df3294ad15.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_6054599172545591dcaf77dc.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_6054599172545591dcaf77dc.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_60545b41c58cbb5cc03a7383.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_60545b41c58cbb5cc03a7383.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_60545bd6aad46968243bc631.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_60545bd6aad46968243bc631.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_60545c2f729463d720985c2b.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_60545c2f729463d720985c2b.mp4.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_60545de7dc1fd82d371052b9.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_60545de7dc1fd82d371052b9.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f_6054602bdc1fd82d371052cc.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f_6054602bdc1fd82d371052cc.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/60548f352b3cafeb3bd16937.webm
+Output: /tmp/602f467d3be1c2b372d53d6f/60548f352b3cafeb3bd16937.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/605490152b3cafeb3bd1694a.webm
+Output: /tmp/602f467d3be1c2b372d53d6f/605490152b3cafeb3bd1694a.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6054908b2b3cafeb3bd16966.webm
+Output: /tmp/602f467d3be1c2b372d53d6f/6054908b2b3cafeb3bd16966.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6054935385eaa3d4e2fa35e3.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6054935385eaa3d4e2fa35e3.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/605494910957a35d2c313b87.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/605494910957a35d2c313b87.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6054977a2884514891b0446d.webm
+Output: /tmp/602f467d3be1c2b372d53d6f/6054977a2884514891b0446d.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/605499170d544292f46f05f5.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/605499170d544292f46f05f5.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/60549acdd40b3903f358dfe8.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/60549acdd40b3903f358dfe8.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055d177dd22ade0e1235c86/6055d177dd22ade0e1235c86.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055d177dd22ade0e1235c86/6055d177dd22ade0e1235c86.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055d48cca00eed1bf0bb871/6055d48cca00eed1bf0bb871.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055d48cca00eed1bf0bb871/6055d48cca00eed1bf0bb871.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055e2595b2ca949b8c37df1/file.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055e2595b2ca949b8c37df1/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055e2c6e2d45540bc7aef19/file.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055e2c6e2d45540bc7aef19/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055f018c14339456873124b/file.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055f018c14339456873124b/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055f134391a238c9507e842/file.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055f134391a238c9507e842/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/602f467d3be1c2b372d53d6f/6055f182391a238c9507e855/file.mp4
+Output: /tmp/602f467d3be1c2b372d53d6f/6055f182391a238c9507e855/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6055f82b391a238c9507e85d/6056e67a693d0158e8c1287d/file.mp4
+Output: /tmp/6055f82b391a238c9507e85d/6056e67a693d0158e8c1287d/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/60575bb63f35d33006e58873/file.MOV
+Output: /tmp/605754e53f35d33006e58865/60575bb63f35d33006e58873/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/60575cd63f35d33006e58876/file.mp4
+Output: /tmp/605754e53f35d33006e58865/60575cd63f35d33006e58876/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6055f82b391a238c9507e85d/605896931af2927f6af2d29c/file.MOV
+Output: /tmp/6055f82b391a238c9507e85d/605896931af2927f6af2d29c/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/605da46dd7a1d4a70ac4701f/file.mp4
+Output: /tmp/605754e53f35d33006e58865/605da46dd7a1d4a70ac4701f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/605da55bd7a1d4a70ac47020/file.mp4
+Output: /tmp/605754e53f35d33006e58865/605da55bd7a1d4a70ac47020/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/605da5f4d7a1d4a70ac47022/file.mp4
+Output: /tmp/605754e53f35d33006e58865/605da5f4d7a1d4a70ac47022/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/605da857c74b6dfe4d936af3/file.mp4
+Output: /tmp/605754e53f35d33006e58865/605da857c74b6dfe4d936af3/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/605daa50ca2684541b280af3/file.mp4
+Output: /tmp/605754e53f35d33006e58865/605daa50ca2684541b280af3/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/605754e53f35d33006e58865/605ecd5fccea94d6feb76473/file.mp4
+Output: /tmp/605754e53f35d33006e58865/605ecd5fccea94d6feb76473/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60655c49d52b8792fd88c4e8/6066db49f2353aafe2680e54/file.mp4
+Output: /tmp/60655c49d52b8792fd88c4e8/6066db49f2353aafe2680e54/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60655c49d52b8792fd88c4e8/6066dc48f2353aafe2680e55/file.mp4
+Output: /tmp/60655c49d52b8792fd88c4e8/6066dc48f2353aafe2680e55/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60655c49d52b8792fd88c4e8/6066ddd2f2353aafe2680e58/file.mp4
+Output: /tmp/60655c49d52b8792fd88c4e8/6066ddd2f2353aafe2680e58/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60655c49d52b8792fd88c4e8/6073d3dd9ad4127d968edf3e/file.mp4
+Output: /tmp/60655c49d52b8792fd88c4e8/6073d3dd9ad4127d968edf3e/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6078016da4ee594f0e429cf0/60782dd64c4bf1b2d78a93c9/file.mp4
+Output: /tmp/6078016da4ee594f0e429cf0/60782dd64c4bf1b2d78a93c9/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60798bfe922b0b2c6c29b205/607990f0d336c790c4d394e1/file.mp4
+Output: /tmp/60798bfe922b0b2c6c29b205/607990f0d336c790c4d394e1/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60798bfe922b0b2c6c29b205/60799161d336c790c4d394e3/file.mp4
+Output: /tmp/60798bfe922b0b2c6c29b205/60799161d336c790c4d394e3/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60798bfe922b0b2c6c29b205/60799226d336c790c4d394e5/file.mp4
+Output: /tmp/60798bfe922b0b2c6c29b205/60799226d336c790c4d394e5/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60798bfe922b0b2c6c29b205/60799318d336c790c4d394e7/file.mp4
+Output: /tmp/60798bfe922b0b2c6c29b205/60799318d336c790c4d394e7/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60798bfe922b0b2c6c29b205/607994fed336c790c4d394e9/file.mp4
+Output: /tmp/60798bfe922b0b2c6c29b205/607994fed336c790c4d394e9/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6078016da4ee594f0e429cf0/607a6f5fd336c790c4d39503/file.mp4
+Output: /tmp/6078016da4ee594f0e429cf0/607a6f5fd336c790c4d39503/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6078016da4ee594f0e429cf0/607a6ff3d336c790c4d39505/file.mp4
+Output: /tmp/6078016da4ee594f0e429cf0/607a6ff3d336c790c4d39505/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60798bfe922b0b2c6c29b205/607dc289115905d4549bf7fa/file.mp4
+Output: /tmp/60798bfe922b0b2c6c29b205/607dc289115905d4549bf7fa/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082e8149d0096311226f8bf/6082eda9aa071b7902fdb2ae/file.mp4
+Output: /tmp/6082e8149d0096311226f8bf/6082eda9aa071b7902fdb2ae/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6082f9421a749674394c5d6a/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6082f9421a749674394c5d6a/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6082fb5d1a749674394c5d6e/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6082fb5d1a749674394c5d6e/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084064b4c9fab3d8f420a79/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6084064b4c9fab3d8f420a79/file.png
+Usage:\n ./poster.sh input output
+\nInput: 
+Output: 
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084064b4c9fab3d8f420a79/file.mp4
+Output: /tmp/
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084064b4c9fab3d8f420a79/file.mp4
+Output: /tmp/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084064b4c9fab3d8f420a79/file.mp4
+Output: /tmp/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084064b4c9fab3d8f420a79/file.mp4
+Output: /tmp/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084083b4c9fab3d8f420a7b/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6084083b4c9fab3d8f420a7b/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60840c7880fbdb1355f44298/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60840c7880fbdb1355f44298/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60840c7880fbdb1355f44298/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60840c7880fbdb1355f44298/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60840c7880fbdb1355f44298/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60840c7880fbdb1355f44298/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60840e8101373d5934f6266c/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60840e8101373d5934f6266c/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608413a501373d5934f6266f/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608415aad54fac7dfa28b21e/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608415aad54fac7dfa28b21e/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608418aef385c666f63508c3/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608418aef385c666f63508c3/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60841937f385c666f63508c5/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60841937f385c666f63508c5/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608419f4f385c666f63508c7/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608419f4f385c666f63508c7/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60841a8af385c666f63508c9/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60841a8af385c666f63508c9/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60841ac4f385c666f63508cb/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60841ac4f385c666f63508cb/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/60841adff385c666f63508cd/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/60841adff385c666f63508cd/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084c9ae2b07614011b75c21/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6084c9ae2b07614011b75c21/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084cb3bece43c3ea8c1bf19/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6084cb3bece43c3ea8c1bf19/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6084cb9cece43c3ea8c1bf1b/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6084cb9cece43c3ea8c1bf1b/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/608656793727c335a14a2ecc/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/608656793727c335a14a2ecc/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/6082f3611a749674394c5d66/6086d28e3727c335a14a2ece/file.mp4
+Output: /tmp/6082f3611a749674394c5d66/6086d28e3727c335a14a2ece/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/608943e14429cc55cce48562/608a3b2e4429cc55cce48577/file.mp4
+Output: /tmp/608943e14429cc55cce48562/608a3b2e4429cc55cce48577/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/608943e14429cc55cce48562/608a3b794429cc55cce48579/file.webm
+Output: /tmp/608943e14429cc55cce48562/608a3b794429cc55cce48579/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/608943e14429cc55cce48562/608e39ef5cc7b6f7187713a9/file.mp4
+Output: /tmp/608943e14429cc55cce48562/608e39ef5cc7b6f7187713a9/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/60debcf4a9d42395a4813039/60e01bb1a9d42395a4813047/file.mp4
+Output: /tmp/60debcf4a9d42395a4813039/60e01bb1a9d42395a4813047/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/614d8ab882dbaebcd6c9667d/614d8ff982dbaebcd6c96686/file.mp4
+Output: /tmp/614d8ab882dbaebcd6c9667d/614d8ff982dbaebcd6c96686/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/625e6cc504681931dacebe9f/625fa3bd7b631e66b10b9259/file.mp4
+Output: /tmp/625e6cc504681931dacebe9f/625fa3bd7b631e66b10b9259/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/625e6cc504681931dacebe9f/625fbc3c38f534ce8eb231d5/file.mp4
+Output: /tmp/625e6cc504681931dacebe9f/625fbc3c38f534ce8eb231d5/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62610cba2b2419e855bc75f5/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62610cba2b2419e855bc75f5/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/628dcfad741f0af41f8b7785/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/628dcfad741f0af41f8b7785/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/629c44acca84bd29a152da53/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/629c44acca84bd29a152da53/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/629f6afb51c623b09844f515/629f6c6051c623b09844f528/file.MOV
+Output: /tmp/629f6afb51c623b09844f515/629f6c6051c623b09844f528/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a071cbdf363b07f89121a6/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a071cbdf363b07f89121a6/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a0748be047838be6599ca3/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a0748be047838be6599ca3/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a078773f6eb5592012f504/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a078773f6eb5592012f504/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a3381ca446f260386021b5/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a3381ca446f260386021b5/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a33a15a446f260386021b7/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a33a15a446f260386021b7/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a33c6786ccb83b11304a63/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a33c6786ccb83b11304a63/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a4459f8d40bc88ed509e9e/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a4459f8d40bc88ed509e9e/file.png
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a44e0d1f48a95ba763d601/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a44e0d1f48a95ba763d601/file.png
+Created output file with 10 scene diff
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62a44e4b1f48a95ba763d603/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62a44e4b1f48a95ba763d603/file.png
+Created output file with 10 scene diff
+Usage:\n ./poster.sh input output
+\nInput: /tmp/629c482cca84bd29a152da59/62a47cf2a3b525f928037714/file.MOV
+Output: /tmp/629c482cca84bd29a152da59/62a47cf2a3b525f928037714/file.png
+Created output file with 10 scene diff
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62b02b7bc913ac78edf22d44/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62b02b7bc913ac78edf22d44/file.png
+Created output file with 10 scene diff
+Usage:\n ./poster.sh input output
+\nInput: /tmp/62610a7cdad0427a3b8edc60/62b58985e5310075be59b04f/file.mp4
+Output: /tmp/62610a7cdad0427a3b8edc60/62b58985e5310075be59b04f/file.png
+Created output file with 10 scene diff
+Usage:\n ./poster.sh input output
+\nInput: /Users/trevor/workspace/trevorsibanda/myhustlezw/data/uploads/62bc1603fa1f3db680ad78d0/62bc466c04658ee809cd23f3/file.mp4
+Output: /Users/trevor/workspace/trevorsibanda/myhustlezw/data/uploads/62bc1603fa1f3db680ad78d0/62bc466c04658ee809cd23f3/file.png
+Created output file with 10 scene diff
